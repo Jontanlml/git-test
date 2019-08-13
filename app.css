@@ -1,0 +1,10 @@
+*{
+background-color: red;
+}
+div{
+    border-style: solid;
+    border-color: black;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
